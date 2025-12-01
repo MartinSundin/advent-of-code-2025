@@ -1,5 +1,3 @@
-from collections import defaultdict
-
 with open('input1.txt', 'r') as f:
     sequence = [w.strip() for w in f.readlines()]
 
