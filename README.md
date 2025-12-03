@@ -5,3 +5,4 @@ Advent of Code 2025
 2. [Problem 1b](problem1b.py)
 3. [Problem 2a](problem2a.py)
 4. [Problem 2b](problem2b.py)
+5. [Problem 3a](problem3a.py)
