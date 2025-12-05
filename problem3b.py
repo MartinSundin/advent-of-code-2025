@@ -1,5 +1,3 @@
-import heapq
-
 with open('input3.txt','r') as f:
     batteries = [s.strip() for s in f.readlines()]
 
