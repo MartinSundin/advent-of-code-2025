@@ -11,3 +11,5 @@ Advent of Code 2025
 8. [Problem 4b](problem4b.py)
 9. [Problem 5a](problem5a.py)
 10. [Problem 5b](problem5b.py)
+11. [Problem 6a](problem6a.py)
+12. [Problem 6b](problem6b.py)
